@@ -1,6 +1,12 @@
-Thanks for downloading this theme!
+SimPark Site
 
-Theme Name: Bell
-Theme URL: https://bootstrapmade.com/bell-free-bootstrap-4-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Website for SimPark, a Crowdsourced Parking Locator.
+
+CSE 440, Fall 2017
+
+Team
+
+Adilene Pulgarin
+Kathryn Chan
+Sepehr Hakami
+Umang Sehgal
