@@ -704,22 +704,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin: 0 4px;
 }
 
-.team .card .social-nav a:hover {
-  opacity: .75;
-}
 
-.team .card:hover .team-over {
-  opacity: 1;
-  visibility: visible;
-}
-
-.team .card:hover .card-title-wrap {
-  background-color: #2B559A;
-}
-
-.team .card:hover .card-title-wrap .card-title, .team .card:hover .card-title-wrap .card-text {
-  color: #fff;
-}
 
 .team .team-over {
   padding-top: 45px;
